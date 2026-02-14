@@ -1,0 +1,66 @@
+.card {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-bottom: 1.5rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.8rem;
+}
+
+.badge {
+  background: #e3f2fd;
+  color: #1e88e5;
+  padding: 0.3rem 0.7rem;
+  border-radius: 8px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.date {
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+.title {
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1f2937;
+}
+
+.meta {
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+  color: #374151;
+}
+
+.desc {
+  margin-top: 0.6rem;
+  font-size: 0.9rem;
+  color: #4b5563;
+}
+
+.actions {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.delete {
+  background: #ef4444;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.delete:hover {
+  background: #dc2626;
+}

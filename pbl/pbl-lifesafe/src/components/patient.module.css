@@ -1,0 +1,26 @@
+.card {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin-top: 1.5rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+  color: #1e88e5;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.label {
+  font-weight: 600;
+  margin-right: 0.4rem;
+  color: #374151;
+}

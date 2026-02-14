@@ -1,0 +1,26 @@
+.topBar {
+  margin: 1.5rem 0;
+}
+
+.addBtn {
+  background: #ff9800;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.addBtn:hover {
+  background: #fb8c00;
+}
+
+.list {
+  margin-top: 1.5rem;
+}
+
+.empty {
+  margin-top: 2rem;
+  color: #6b7280;
+}
